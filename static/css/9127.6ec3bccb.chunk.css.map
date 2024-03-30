@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/9127.6ec3bccb.chunk.css","mappings":"AAAA,aAGE,yBAEA,yBADA,kBAHA,YACA,UAGA","sources":["views/orders/manage-orders/OrderDetails.scss"],"sourcesContent":[".icon_parent{\n  height: 24px;\n  width: 24px;\n  background-color: #5bc0de;\n  border-radius: 2px ;\n  border: 1px solid  #39b3d7;\n}"],"names":[],"sourceRoot":""}
