@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.8a8cd3b1.css",
-    "main.js": "/static/js/main.c953ddc1.js",
+    "main.js": "/static/js/main.1ee26f52.js",
     "static/css/4665.5ef5b493.chunk.css": "/static/css/4665.5ef5b493.chunk.css",
-    "static/js/4665.04a3e544.chunk.js": "/static/js/4665.04a3e544.chunk.js",
+    "static/js/4665.89f160c5.chunk.js": "/static/js/4665.89f160c5.chunk.js",
     "static/js/5254.9bcfa8d1.chunk.js": "/static/js/5254.9bcfa8d1.chunk.js",
     "static/js/3001.cd973907.chunk.js": "/static/js/3001.cd973907.chunk.js",
     "static/js/6188.a8b09b01.chunk.js": "/static/js/6188.a8b09b01.chunk.js",
@@ -119,14 +119,14 @@
     "static/js/4296.02472120.chunk.js": "/static/js/4296.02472120.chunk.js",
     "static/js/3180.42f9690c.chunk.js": "/static/js/3180.42f9690c.chunk.js",
     "static/media/Century-Gothic.ttf": "/static/media/Century-Gothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/logo.png": "/static/media/logo.8871cad78a64dc790409.png",
     "static/media/Digital-Mono-Clock.ttf": "/static/media/Digital-Mono-Clock.ae951a188b593952b384.ttf",
     "static/media/avatar.png": "/static/media/avatar.724b79cd582c0a0944ee.png",
-    "static/media/logo.png": "/static/media/logo.7510a6d8760557f86175.png",
     "index.html": "/index.html",
     "main.8a8cd3b1.css.map": "/static/css/main.8a8cd3b1.css.map",
-    "main.c953ddc1.js.map": "/static/js/main.c953ddc1.js.map",
+    "main.1ee26f52.js.map": "/static/js/main.1ee26f52.js.map",
     "4665.5ef5b493.chunk.css.map": "/static/css/4665.5ef5b493.chunk.css.map",
-    "4665.04a3e544.chunk.js.map": "/static/js/4665.04a3e544.chunk.js.map",
+    "4665.89f160c5.chunk.js.map": "/static/js/4665.89f160c5.chunk.js.map",
     "5254.9bcfa8d1.chunk.js.map": "/static/js/5254.9bcfa8d1.chunk.js.map",
     "3001.cd973907.chunk.js.map": "/static/js/3001.cd973907.chunk.js.map",
     "6188.a8b09b01.chunk.js.map": "/static/js/6188.a8b09b01.chunk.js.map",
@@ -244,6 +244,6 @@
   },
   "entrypoints": [
     "static/css/main.8a8cd3b1.css",
-    "static/js/main.c953ddc1.js"
+    "static/js/main.1ee26f52.js"
   ]
 }
